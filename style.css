@@ -17,7 +17,7 @@
     margin: 100px auto;
     padding: 10px;
     display: grid;
-    grid-template-columns:100px 200px;
+    grid-template-columns:300px 300px 300px;
     /*align-items: start;
     justify-content: start;
     grid-auto-rows: minmax(200px auto);
